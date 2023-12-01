@@ -5,5 +5,6 @@ public class Second {
        int onemile = 20;
        int mile = tiket / onemile;
        System.out.println(mile);
+       hi
     }
 }
